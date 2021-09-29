@@ -1,0 +1,1 @@
+No that was not the problem by the time you answer I posted question on 12 march 2020 you answered 19/5/2020 , I already gave a solution in my question as how I solved. The problem was I had two .git folders one folder was inside another git and also the remote repository link was wrong so I deleted them and again did all things from scratch. Then it worked 

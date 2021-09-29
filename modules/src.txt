@@ -1,0 +1,3 @@
+I changed the password stored in windows credentials manager probably an old password was stored.
+
+I do not get any popup asking username password. (an ssh key was configured but not sure if that is working on this Windows 10 environment
