@@ -1,0 +1,6 @@
+https://github.com/login/oauth/authorize?response_type=code&client_id=0120e057bd645470c1ed&state
+=01832d82ae77476797ea0ec6506569c3&code_challenge_method=S256&code_challenge=SEuBPWY0rBBSVMfMUbd
+tL0PxsL13KI9RAElqulLUTAM&redirect_uri=http%3a%2f%2flocalhost%3a60516%2f&scope=repo+gist+workflow
+https://github.com/login/oauth/authorize?response_type=code&client_id=0120e057bd645470c1ed&state
+=01832d82ae77476797ea0ec6506569c3&code_challenge_method=S256&code_challenge=SEuBPWY0rBBSVMfMUbdt
+L0PxsL13KI9RAElqulLUTAM&redirect_uri=http%3a%2f%2flocalhost%3a60516%2f&scope=repo+gist+workflow6
